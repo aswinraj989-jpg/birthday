@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <radialGradient id="grad1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#ffeaf4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fff8fc;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  <circle cx="100" cy="100" r="100" fill="url(#grad1)"/>
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#e2b4ca" stroke-width="3" stroke-dasharray="5,5"/>
+  <text x="100" y="85" font-size="48" text-anchor="middle" fill="#d4658f">📸</text>
+  <text x="100" y="120" font-size="18" text-anchor="middle" fill="#9d4f72" font-weight="bold">Add Photo</text>
+</svg>
